@@ -77,4 +77,4 @@ backup:
   type: git
   theme: maupassant
   repository:
-    github: git@github.com:KKFantasy/myBlog.git
+    github: https://github.com/KKFantasy/myBlog.git
