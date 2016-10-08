@@ -75,6 +75,6 @@ deploy:
 # Backup
 backup:
   type: git
-  theme: maupassant
+  #theme: maupassant
   repository:
     github: git@github.com:KKFantasy/myBlog.git
