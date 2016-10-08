@@ -75,5 +75,6 @@ deploy:
 # Backup
 backup:
   type: git
+  theme: maupassant
   repository:
-    github: git@github.com:KKFantasy/HexoBackup.git
+    github: git@github.com:KKFantasy/myBlog.git
