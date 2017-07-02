@@ -77,7 +77,7 @@ backup:
   type: git
   theme: next
   repository:
-    github: https://github.com/KKFantasy/myBlog.git
+    github: git@github.com:KKFantasy/myBlog.git
 
 #七牛云存储设置
 ##offline       是否离线. 离线状态将使用本地地址渲染
